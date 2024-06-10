@@ -11,7 +11,7 @@
 | **Pyramid** | `Opyr`   | Creates a pyramid of an emote/phrase. Aliases: pyr.                           | 15s      |
 | **commands** | `Ocommands` | Displays this link containing command info.                              | -        |
 
-#  collect chat game commands
+#  collect commands
 
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------------|
