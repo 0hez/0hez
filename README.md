@@ -11,7 +11,7 @@
 | **commands** | `Ocommands` | Displays this link containing command info.                                   | 5s
 |**triva**     |`0trivia`  | Start a triva in the channel.
 
-#  collect commands
+#  collect game commands
 
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------------|
