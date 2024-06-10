@@ -1,5 +1,5 @@
 
-# 0Hez Chat Bot Commands
+# Bot Commands
 
 | Command   | Usage      | Description                                                                 | Cooldown |
 |-----------|------------|-----------------------------------------------------------------------------|----------|
@@ -11,7 +11,7 @@
 | **commands** | `Ocommands` | Displays this link containing command info.                                   | 5s
 |**triva**     |`0trivia`  | Start a triva in the channel.
 
-#  collect game commands
+#  collect commands
 
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------------|
