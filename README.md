@@ -8,7 +8,7 @@
 | **Lastseen** | `Olastseen` | Gets channel user's last seen and user's last message.                     | 5s       |
 | **User**  | `Ouser`    | Displays user account info, including user creation date, roles, last live, etc. | 5s   |
 | **Streaminfo**  | `Osi` |Shows stream information about a given twitch channel.                            | 5s       |
-| **commands** | `Ocommands` | Displays this link containing command info.                              | 5s       |
+| **commands** | `Ocommands` | Displays this link containing command info.                                   | 5s
 |**triva**     |`0trivia`  | Start a triva in the channel.
 
 #  collect commands
