@@ -1,8 +1,6 @@
 
 # 0Hez Chat Bot Commands
 
-# Here are the available commands for the 0Hez Chat Bot:
-
 | Command   | Usage      | Description                                                                 | Cooldown |
 |-----------|------------|-----------------------------------------------------------------------------|----------|
 | **Ping**  | `Oping`    | Pings the bot and outputs uptime & channels the bot is currently in.         | 5s       |
@@ -13,7 +11,8 @@
 | **Pyramid** | `Opyr`   | Creates a pyramid of an emote/phrase. Aliases: pyr.                           | 15s      |
 | **commands** | `Ocommands` | Displays this link containing command info.                              | -        |
 
-# commands for collect chat game
+#  collect chat game commands
+
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------------|
 | **collect**      | `0collect`                         | Attempt to collect money.                                                                    | 20 minutes   |
