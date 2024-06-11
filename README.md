@@ -1,8 +1,9 @@
-
+`
 # Bot Commands
 
 | Command   | Usage      | Description                                                                 | Cooldown |
 |-----------|------------|-----------------------------------------------------------------------------|----------|
+|**join**    |`0join <target name>`| Adds the bot to the targeted channel.                             |        |
 | **Ping**  | `Oping`    | Pings the bot and outputs uptime & channels the bot is currently in.         | 5s       |
 | **pfp**   | `Opfp`     | Displays user's profile picture.                                             | 5s       |
 | **Lastseen** | `Olastseen` | Gets channel user's last seen and user's last message.                     | 5s       |
