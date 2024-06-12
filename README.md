@@ -10,7 +10,8 @@
 | **User**  | `Ouser`    | Displays user account info, including user creation date, roles, last live, etc. | 5s   |
 | **Streaminfo**  | `Osi` |Shows stream information about a given twitch channel.                            | 5s       |
 | **commands** | `Ocommands` | Displays this link containing command info.                                   | 5s
-
+| **trivia** | `Otrivia` |starts a trivia.                                    | 5s
+| **stoptrivia** | `Ostoptrivia` |stops the current trivia.                                    | 5s
 #  collect commands
 
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
