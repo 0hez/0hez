@@ -1,18 +1,5 @@
-`
-# Bot Commands
 
-| Command   | Usage      | Description                                                                 | Cooldown |
-|-----------|------------|-----------------------------------------------------------------------------|----------|
-|**join**    |`0join <target>`| Adds the bot to the targeted channel.                             |        |
-| **Ping**  | `Oping`    | Pings the bot and outputs uptime & channels the bot is currently in.         | 5s       |
-| **pfp**   | `Opfp`     | Displays user's profile picture.                                             | 5s       |
-| **Lastseen** | `Olastseen` | Gets channel user's last seen and user's last message.                     | 5s       |
-| **User**  | `Ouser`    | Displays user account info, including user creation date, roles, last live, etc. | 5s   |
-| **Streaminfo**  | `Osi` |Shows stream information about a given twitch channel.                            | 5s       |
-| **commands** | `Ocommands` | Displays this link containing command info.                                   | 5s
-| **trivia** | `Otrivia` |starts a trivia.                                    | 5s
-| **stoptrivia** | `Ostoptrivia` |stops the current trivia.                                    | 5s
-#  collect commands
+#  collect game commands 
 
 | Command          | Usage                              | Description                                                                                  | Cooldown     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------------------|--------------|
